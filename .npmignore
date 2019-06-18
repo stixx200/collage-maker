@@ -1,0 +1,6 @@
+src
+test
+assets
+webpack.config.js
+tsconfig.json
+*.tgz
